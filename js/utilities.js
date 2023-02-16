@@ -71,7 +71,7 @@ function allCost() {
     setPrice("all-total", allTotal);
 };
 
-//....................................
+//.....................................
 // order place
 function order() {
     const allTotal = getProductPrice("all-total");

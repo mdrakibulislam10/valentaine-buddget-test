@@ -19,3 +19,5 @@ document.getElementById("diary-buy-btn").addEventListener("click", function () {
     setProductPrice("diary", "diary-quantity", "diary-price");
     getAllProductPrice();
 });
+
+//.....

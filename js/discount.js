@@ -1,4 +1,4 @@
-// apply handler
+// apply handler....
 function handlePromoCode() {
     allCost();
 };
